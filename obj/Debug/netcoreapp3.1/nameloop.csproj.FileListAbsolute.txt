@@ -1,0 +1,13 @@
+/home/andy/Documents/projects/nameloop/bin/Debug/netcoreapp3.1/nameloop
+/home/andy/Documents/projects/nameloop/bin/Debug/netcoreapp3.1/nameloop.deps.json
+/home/andy/Documents/projects/nameloop/bin/Debug/netcoreapp3.1/nameloop.runtimeconfig.json
+/home/andy/Documents/projects/nameloop/bin/Debug/netcoreapp3.1/nameloop.runtimeconfig.dev.json
+/home/andy/Documents/projects/nameloop/bin/Debug/netcoreapp3.1/nameloop.dll
+/home/andy/Documents/projects/nameloop/bin/Debug/netcoreapp3.1/nameloop.pdb
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.csprojAssemblyReference.cache
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.AssemblyInfoInputs.cache
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.AssemblyInfo.cs
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.csproj.CoreCompileInputs.cache
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.dll
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.pdb
+/home/andy/Documents/projects/nameloop/obj/Debug/netcoreapp3.1/nameloop.genruntimeconfig.cache
